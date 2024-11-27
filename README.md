@@ -1,4 +1,4 @@
-# Quizzical
+# QuizChowk
 
 Welcome to QuizChowk, a trivia website where knowledge meets fun!
 
